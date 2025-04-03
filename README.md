@@ -13,7 +13,7 @@
 ```bash
 git clone https://github.com/your-username/NextBypass.git
 cd NextBypass
-chmod +x nextbypass.sh
+chmod +x NextBypass
 ```
 
 ## Usage
