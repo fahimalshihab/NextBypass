@@ -18,7 +18,7 @@ chmod +x NextBypass
 
 ## Usage
 ```bash
-./nextbypass.sh  # Interactive menu
+./NextBypass  # Interactive menu
 ```
 
 ## Options
