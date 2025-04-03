@@ -1,8 +1,7 @@
 # NextBypass 🚨
 **Next.js Middleware Authorization Bypass Tool (CVE-2025-29927)**
 
-![Terminal Demo](demo.gif) *(Optional: Add a screencast later)*
-
+[![asciicast](https://asciinema.org/a/uyDuYrRBj2r8gqN1u6oDvsEVU.svg)](https://asciinema.org/a/uyDuYrRBj2r8gqN1u6oDvsEVU)
 ## Features
 - Exploit CVE-2025-29927 via `x-middleware-subrequest` header  
 - Auto-browser integration (Proxy/Bookmarklet)  
